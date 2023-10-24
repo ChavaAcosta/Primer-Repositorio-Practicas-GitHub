@@ -1,2 +1,2 @@
 # Primer-Repositorio-Practicas-GitHub
-Mi primer repositorio, practicas de git hub Estoy cansado gfe :/
+Mi primer repositorio, practicas de git hub Estoy cansado gfe :/ me ando durmiendo
